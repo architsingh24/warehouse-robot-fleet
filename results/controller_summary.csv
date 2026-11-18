@@ -1,0 +1,3 @@
+kw,reached,time_s,max_cte_m,mean_cte_m
+1.5,True,31.75,0.1706,0.0497
+4.0,True,31.55,0.0448,0.0083

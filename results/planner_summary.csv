@@ -1,0 +1,4 @@
+method,heuristic,mean_nodes,mean_time_ms,mean_path_len,pairs
+A* (manhattan),manhattan,59.8,0.127,18.1,300
+A* (euclidean),euclidean,76.1,0.154,18.1,300
+Dijkstra,dijkstra,216.7,0.384,18.1,300
